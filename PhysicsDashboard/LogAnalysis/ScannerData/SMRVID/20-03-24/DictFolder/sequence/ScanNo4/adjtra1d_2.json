@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/20_09:19:31.965660",
+    "start_time": "09:19:31",
+    "measurement_time": "0.800000_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "09:19:31",
+    "start_of_measurement_host_time": "09:19:31",
+    "finish_of_measurement_host_time": "09:19:31",
+    "start_of_measurement_mcir_time": "09:19:31",
+    "finish_of_measurement_mcir_time": "09:19:31",
+    "total_measurement_time_host": "0.415888_s",
+    "total_measurement_time_mcir": "0.336243_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "146",
+    "protocol_name": "adjtra1d"
+}

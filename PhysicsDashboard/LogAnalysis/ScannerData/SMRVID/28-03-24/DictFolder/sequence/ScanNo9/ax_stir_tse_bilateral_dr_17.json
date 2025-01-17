@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/28_12:30:38.507818",
+    "start_time": "12:30:38",
+    "measurement_time": "110.979940_s",
+    "allowed_meas_pause": "60.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "7.662739_s",
+    "readout_and_check_time_bb": "12:30:36",
+    "start_of_measurement_host_time": "12:28:47",
+    "finish_of_measurement_host_time": "12:30:38",
+    "start_of_measurement_mcir_time": "12:28:45",
+    "finish_of_measurement_mcir_time": "12:30:36",
+    "total_measurement_time_host": "111.092855_s",
+    "total_measurement_time_mcir": "110.999117_s",
+    "pause_after_measurement": "7.686486_s",
+    "pause_averaging_time": "110.498422_s",
+    "meas_uid": "307",
+    "protocol_name": "ax_stir_tse_bilateral_dr"
+}

@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/15_17:46:04.978394",
+    "start_time": "17:46:04",
+    "measurement_time": "114.849930_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "17:46:03",
+    "start_of_measurement_host_time": "17:44:09",
+    "finish_of_measurement_host_time": "17:46:04",
+    "start_of_measurement_mcir_time": "17:44:08",
+    "finish_of_measurement_mcir_time": "17:46:03",
+    "total_measurement_time_host": "114.963537_s",
+    "total_measurement_time_mcir": "114.875187_s",
+    "pause_after_measurement": "0.015508_s",
+    "pause_averaging_time": "3.862236_s",
+    "meas_uid": "689",
+    "protocol_name": "sag_stir_siemens_dr"
+}

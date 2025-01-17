@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/03_11:54:36.371972",
+    "start_time": "11:54:36",
+    "measurement_time": "110.009950_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "No data",
+    "start_of_measurement_host_time": "not_started",
+    "finish_of_measurement_host_time": "not_stopped",
+    "start_of_measurement_mcir_time": "not_started",
+    "finish_of_measurement_mcir_time": "not_stopped",
+    "total_measurement_time_host": "No data",
+    "total_measurement_time_mcir": "No data",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "365",
+    "protocol_name": "i_sag_stir_tse"
+}

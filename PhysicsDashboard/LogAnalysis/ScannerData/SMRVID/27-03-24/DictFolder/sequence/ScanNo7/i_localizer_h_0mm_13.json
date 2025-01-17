@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/27_12:31:55.221705",
+    "start_time": "12:31:55",
+    "measurement_time": "25.820000_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "12:31:53",
+    "start_of_measurement_host_time": "12:31:29",
+    "finish_of_measurement_host_time": "12:31:55",
+    "start_of_measurement_mcir_time": "12:31:27",
+    "finish_of_measurement_mcir_time": "12:31:53",
+    "total_measurement_time_host": "25.939615_s",
+    "total_measurement_time_mcir": "25.849649_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "152",
+    "protocol_name": "i_localizer_h_0mm"
+}

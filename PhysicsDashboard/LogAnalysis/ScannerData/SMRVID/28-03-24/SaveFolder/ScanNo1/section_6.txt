@@ -1,0 +1,350 @@
+=======_new_history_entry_=======================================================
+_100 date_and_time_...................................... : 2024/03/28_07:12:05.576320
+_101 system_type_...................................... : 025
+_102 serial_number_.................................... : 176584
+_103 guideline_........................................ : iec
+_104 protectionmode_................................... : all
+_105 build_version_.................................... : va50a.night_20220617.1_c237027|va50a.night_20231106.1_c357489|
+_106 history_version_.................................. : 3.2.1
+_300 sequence_path_.................................... : %adjustseq%\stimofunctiontest
+_301 protocol_name_.................................... : initialized_by_sequence
+_302 measurement_type_................................. : test_measurement
+_303 number_nuclei_.................................... : 1
+_304 measurement_time_................................. : 0.520020_s
+_305 allowed_meas_pause_............................... : 0.000_s
+_306 #_energy_time_blocks_............................. : 1
+   energy_time_block_e _0n0_.................... : 0.000000_ws,_0.520_s,_0_mm,_0.000,_0.000,_0.000,_0.000,_0.000,_0.000,_0.000,_0.000,_0.00_0
+_307 mds_protocol_..................................... : no
+_308 ptab_start_position_z_.......................... : 0_m_m
+_309 ptab_end_position_z_............................ : 0_m_m
+_310 ptab_speed_z_................................... : 0.00,0.00,0.00,0.00_mm/_s
+_311 frequency_n0_................................... : 123261687_h_z
+_312 energy_at_nucleus_n0_........................... : 0.000000_w_s
+_313 average_power_at_nucleus_n0_.................... : 0.000000 w
+_314 has_ptx_pulse_n0_............................... : _0
+_315 bc_mode_.......................................... : 2_v
+_316 coil_plugs_....................................... : ff,0,0,0,0,0,0,0,0,0,0
+_317 tr_............................................... : 260.00_ms
+_318 number_slices_.................................... : 1
+_319 flip_angle_....................................... : 0.0_degree
+_320 conflict_modifier_................................ : 
+_321 max._tx_amplitude_tra_t0_..................... : 449.00 v
+_322 max._tx_amplitude_tra_t1_..................... : 449.00 v
+_400 gc_type_.......................................... : gc25
+_401 nominal_b0_....................................... : 2.893620_t
+_402 rx_head_coil_connected_........................... : no
+_403 ptab_standard_top_................................ : yes
+_404 ptab_offset_z_.................................... : 932.0_mm
+_405 tx_sar_id_n0_................................... : 11_0
+_406 tx_local_sar_id_n0_............................. : 101_0
+_407 tx_coil_id_n0_.................................. : bod_y
+_408 tx_coil_part_nbr_n0_............................ : 
+_409 tx_coil_serial_nbr_n0_.......................... : 
+_410 tx_coil_length_n0_.............................. : 0.580000 m
+_411 tx_coil_diameter_n0_............................ : 0.690000 m
+_412 coil_power_loss_cp_n0_.......................... : 1690.560059 w
+_413 coil_power_loss_ep_n0_.......................... : 2018.959961 w
+_414 avg._b1_square_contact_limit_bc_cp_n0_.......... : 6.670_ut^_2
+_415 avg._b1_square_contact_limit_bc_ep_n0_.......... : 5.560_ut^_2
+_416 avg._b1_square_contact_limit_bc_error_n0_....... : 1.20_0
+_417 cpl_pickup_cp_n0u0_........................... : 412.569000_v/ad_c
+_418 cpl_pickup_cp_n0u1_........................... : 464.303009_v/ad_c
+_419 cpl_pickup_ep_n0u0_........................... : 304.621002_v/ad_c
+_420 cpl_pickup_ep_n0u1_........................... : 624.960999_v/ad_c
+_421 cable_gain_n0x0_.............................. : 0.90250_0
+_422 cable_gain_n0x1_.............................. : 0.90250_0
+_423 coil_sar_conversion_factor_n0_.................. : 0.000000_/k_g
+_600 absolute_table_position_n0_..................... : 0_m_m
+_601 adjtra_tra_power_n0_............................ : 246.420000 w
+   adjtra_tales_power_n0_.......................... : 164.764257 w
+   adjtra_dico_power_n0_........................... : 164.764257 w
+   adjtra_meas_flag_n0_............................ : n_o
+   adjtra_excit_mode_n0_........................... : _2
+   adjtra_tra_mode_n0_............................. : _3
+   adjtra_tra_scale_power_n0_...................... : 0.06533_9
+_602 adj_tx_scale_factor_n0x0_..................... : 0.475200,_0.00000_0
+_603 adj_tx_scale_factor_n0x1_..................... : 0.880362,_130.00972_6
+_604 dicotest_measuid_n0_............................ : -_1
+   dicotest_val_calc_n0_........................... : ye_s
+   dicotest_excit_mode_n0_......................... : _2
+_605 dicotest_pulse_n0d0_.......................... : adjtr_a
+   dicotest_tra_u_n0d0_.......................... : 434.247009 v
+   dicotest_nb_forw_u_n0d0x0_.................. : 434.247009,_0.000000 v
+   dicotest_nb_refl_u_n0d0x0_.................. : 249.972496,_0.000000 v
+   dicotest_nb_forw_u_n0d0x1_.................. : 0.000000,_0.000000 v
+   dicotest_nb_refl_u_n0d0x1_.................. : 0.000000,_0.000000 v
+   dicotest_bb_forw_u_n0d0x0_.................. : 434.247009 v
+   dicotest_bb_refl_u_n0d0x0_.................. : 249.972496 v
+   dicotest_bb_forw_u_n0d0x1_.................. : 0.000000 v
+   dicotest_bb_refl_u_n0d0x1_.................. : 0.000000 v
+   dicotest_pickup_u_n0d0x0_................... : 304.621002,_0.000000_v/ad_c
+   dicotest_pickup_u_n0d0x1_................... : 624.960999,_0.000000_v/ad_c
+   dicotest_nb_rfpa_forw_u_n0d0x0_........... : 0.000000,_0.000000 v
+   dicotest_nb_rfpa_refl_u_n0d0x0_........... : 0.000000,_0.000000 v
+   dicotest_drift_u_n0d0x0_.................... : 684.219505 v
+   dicotest_nb_rfpa_forw_u_n0d0x1_........... : 0.000000,_0.000000 v
+   dicotest_nb_rfpa_refl_u_n0d0x1_........... : 0.000000,_0.000000 v
+   dicotest_drift_u_n0d0x1_.................... : 0.000000 v
+_606 pickup_det_cpl_n0_.............................. : 2018.96 w
+_607 rx_coil_coupl_n0_............................... : 1.000_0
+_608 vop_to_pwr_factor_n0_........................... : 4.185_0
+_609 temperature_sensor_check_......................... : ok
+   temperature_sensor_min_........................... : 20.1_c
+   temperature_sensor_max_........................... : 20.9_c
+_700 adjtra_tales_power_nominal_n0_.................. : 164.764257 w
+_701 adjtra_coil_power_nominal_n0_................... : 131.916765 w
+_702 adjtra_tales_power_increased_by_meas_errors_n0_. : 191.470363 w
+_703 adjtra_coil_power_increased_by_meas_errors_n0_.. : 157.798191 w
+_704 tales_meas_rel._error_n0_....................... : 0.03000_0
+   tales_directivity_n0_........................... : 0.01000_0
+   tales_meas_error_absolute_n0_................... : 2.371708 v
+   tales_mds_error_.................................. : 0.000000
+_705 dico_meas_rel._error_n0_........................ : 0.02000_0
+   dico_directivity_n0_............................ : 0.01750_0
+_900 most_critical_aspect_number_name_................ : 0_'unknown'
+_901 most_critical_sar_aspect_number_name_............ : 0_'unknown'
+_902 bore_temperature_................................. : 0.000000_c
+_903 calculated_predelay_.............................. : 0.000000_s
+_904 calculated_measpause_............................. : 0.000000_s
+_905 sed_limit_........................................ : 0.000000_j/kg
+_906 sed_threshold_.................................... : 0.000000_j/kg
+   predicted_sed_absolute_........................... : 0.000000_j/kg
+   predicted_sed_rel._limit_......................... : 0.000000
+   predicted_sed_rel._threshold_..................... : 0.000000
+1000 ops_channel_mask_................................. : 0x00000003
+   tra_channel_->_signal_n0x0_................... : 0_->_b_c
+   tra_channel_->_signal_n0x1_................... : 1_->_b_c
+1001 number_of_all_vops_............................... : 0_invalid
+1002 broadband_limits_................................. : unlimited
+   broadband_averaging_times_........................ : n.a.
+1003 narrowband_limits_................................ : unlimited
+   narrowband_averaging_times_....................... : n.a
+1004 ops_history_load_broadband_..................... : no
+   ops_history_load_narrowband_.................... : no
+1005 aspectfactors_.................................... : defaults
+1100 general_consistency_check_valid_.................. : yes
+1101 ops_switched_off_................................. : no
+1102 ops_state_........................................ : 0
+1103 consistency_check_................................ : ok
+1104 readout_and_check_time_bb_........................ : 07:12:05.334037
+1105 readout_and_check_time_nb_........................ : 07:12:05.334037
+1106 number_of_aspects_checked_........................ : 0
+1107 bb_nb_max._deviation_........................... : 0.000000_w
+   bb_nb_check_limit_.............................. : 0.000000_w
+1108 peak_power_limit_bc_t0_......................... : 35000.000000 w
+1109 peak_power_limit_lc_t0_......................... : 35000.000000 w
+1110 peak_power_limit_bc_t1_......................... : 35000.000000 w
+1111 peak_power_limit_lc_t1_......................... : -1.000000 w
+1112 opspeakpowerforw_0_............................... : 0.005000_w
+   opspeakpowerrefl_0_............................... : 0.005000_w
+1113 opspeakpowerforw_90_.............................. : 0.005000_w
+   opspeakpowerrefl_90_.............................. : 0.005000_w
+1114 opspeakpowerforwlc0_.............................. : 0.005000_w
+   opspeakpowerrefllc0_.............................. : 0.005000_w
+1115 opspeakpowerforwlc1_.............................. : 0.000000_w
+   opspeakpowerrefllc1_.............................. : 0.000000_w
+1116 opsaveragingintbb_n0j0_....................... : 0.001000 s
+   opsresultsmaxforw_n0j0_....................... : 0.00000_0
+   opsresultsmaxrefl_n0j0_....................... : 0.00000_0
+   opslimitsbb   _n0j0_....................... : 35000.00000_0
+1117 opsaveragingintbb_n0j0_....................... : 0.001000 s
+   opsresultsactbb _n0j0_....................... : 0.00000_0
+   opsresultsmaxbb _n0j0_....................... : 0.00000_0
+   opslimitsbb   _n0j0_....................... : 35000.00000_0
+1118 opsaveragingintbb_n0j1_....................... : 0.100000 s
+   opsresultsactbb _n0j1_....................... : 0.00000_0
+   opsresultsmaxbb _n0j1_....................... : 0.00000_0
+   opslimitsbb   _n0j1_....................... : 35000.00000_0
+1119 opsaveragingintbb_n0j2_....................... : 1.000000 s
+   opsresultsactbb _n0j2_....................... : 0.00000_0
+   opsresultsmaxbb _n0j2_....................... : 0.00000_0
+   opslimitsbb   _n0j2_....................... : 35000.00000_0
+1120 opsaveragingintbb_n0j3_....................... : 10.000000 s
+   opsresultsactbb _n0j3_....................... : 0.00000_0
+   opsresultsmaxbb _n0j3_....................... : 0.00000_0
+   opslimitsbb   _n0j3_....................... : 35000.00000_0
+1121 opsaveragingintbb_n0j4_....................... : 20.000000 s
+   opsresultsactbb _n0j4_....................... : 0.00000_0
+   opsresultsmaxbb _n0j4_....................... : 0.00000_0
+   opslimitsbb   _n0j4_....................... : 35000.00000_0
+1122 opsaveragingintbb_n0j5_....................... : 360.000000 s
+   opsresultsactbb _n0j5_....................... : 0.00000_0
+   opsresultsmaxbb _n0j5_....................... : 0.00000_0
+   opslimitsbb   _n0j5_....................... : 35000.00000_0
+1123 ops_averaging_delay_bb_n0_...................... : 0.671910 s
+1124 opsaveragingintbb_n1j0_....................... : 0.000000 s
+   opsresultsmaxforw_n1j0_....................... : 0.00000_0
+   opsresultsmaxrefl_n1j0_....................... : 0.00000_0
+   opslimitsbb   _n1j0_....................... : 0.00000_0
+1125 opsaveragingintbb_n1j0_....................... : 0.000000 s
+   opsresultsactbb _n1j0_....................... : 0.00000_0
+   opsresultsmaxbb _n1j0_....................... : 0.00000_0
+   opslimitsbb   _n1j0_....................... : 0.00000_0
+1126 opsaveragingintbb_n1j1_....................... : 0.000000 s
+   opsresultsactbb _n1j1_....................... : 0.00000_0
+   opsresultsmaxbb _n1j1_....................... : 0.00000_0
+   opslimitsbb   _n1j1_....................... : 0.00000_0
+1127 opsaveragingintbb_n1j2_....................... : 0.000000 s
+   opsresultsactbb _n1j2_....................... : 0.00000_0
+   opsresultsmaxbb _n1j2_....................... : 0.00000_0
+   opslimitsbb   _n1j2_....................... : 0.00000_0
+1128 opsaveragingintbb_n1j3_....................... : 0.000000 s
+   opsresultsactbb _n1j3_....................... : 0.00000_0
+   opsresultsmaxbb _n1j3_....................... : 0.00000_0
+   opslimitsbb   _n1j3_....................... : 0.00000_0
+1129 opsaveragingintbb_n1j4_....................... : 0.000000 s
+   opsresultsactbb _n1j4_....................... : 0.00000_0
+   opsresultsmaxbb _n1j4_....................... : 0.00000_0
+   opslimitsbb   _n1j4_....................... : 0.00000_0
+1130 opsaveragingintbb_n1j5_....................... : 0.000000 s
+   opsresultsactbb _n1j5_....................... : 0.00000_0
+   opsresultsmaxbb _n1j5_....................... : 0.00000_0
+   opslimitsbb   _n1j5_....................... : 0.00000_0
+1131 ops_averaging_delay_bb_n1_...................... : 0.000000 s
+1132 opsaveragingintnb_j2_........................... : 1.000000 s
+   opsresultsactnb _j2v0_....................... : 0.00000_0
+   opsresultsmaxnb _j2v0_....................... : 0.00000_0
+   opslimitsnb   _j2v0_....................... : 35000.00000_0
+   opsresultsactnb _j2v1_....................... : 0.00000_0
+   opsresultsmaxnb _j2v1_....................... : 0.00000_0
+   opslimitsnb   _j2v1_....................... : 35000.00000_0
+   opsresultsactnb _j2v2_....................... : 0.00000_0
+   opsresultsmaxnb _j2v2_....................... : 0.00000_0
+   opslimitsnb   _j2v2_....................... : 35000.00000_0
+   opsresultsactnb _j2v3_....................... : 0.00000_0
+   opsresultsmaxnb _j2v3_....................... : 0.00000_0
+   opslimitsnb   _j2v3_....................... : 35000.00000_0
+   opsresultsactnb _j2v4_....................... : 0.00000_0
+   opsresultsmaxnb _j2v4_....................... : 0.00000_0
+   opslimitsnb   _j2v4_....................... : 35000.00000_0
+   opsresultsactnb _j2v5_....................... : 0.00000_0
+   opsresultsmaxnb _j2v5_....................... : 0.00000_0
+   opslimitsnb   _j2v5_....................... : 35000.00000_0
+   opsresultsactnb _j2v6_....................... : 0.00000_0
+   opsresultsmaxnb _j2v6_....................... : 0.00000_0
+   opslimitsnb   _j2v6_....................... : 35000.00000_0
+   opsresultsactnb _j2v7_....................... : 0.00000_0
+   opsresultsmaxnb _j2v7_....................... : 0.00000_0
+   opslimitsnb   _j2v7_....................... : 35000.00000_0
+   opsresultsactnb _j2v8_....................... : 0.00000_0
+   opsresultsmaxnb _j2v8_....................... : 0.00000_0
+   opslimitsnb   _j2v8_....................... : 35000.00000_0
+1133 opsaveragingintnb_j3_........................... : 10.000000 s
+   opsresultsactnb _j3v0_....................... : 0.00000_0
+   opsresultsmaxnb _j3v0_....................... : 148.94569_4
+   opslimitsnb   _j3v0_....................... : 35000.00000_0
+   opsresultsactnb _j3v1_....................... : 0.00000_0
+   opsresultsmaxnb _j3v1_....................... : 0.00000_0
+   opslimitsnb   _j3v1_....................... : 35000.00000_0
+   opsresultsactnb _j3v2_....................... : 0.00000_0
+   opsresultsmaxnb _j3v2_....................... : 0.00000_0
+   opslimitsnb   _j3v2_....................... : 35000.00000_0
+   opsresultsactnb _j3v3_....................... : 0.00000_0
+   opsresultsmaxnb _j3v3_....................... : 0.00000_0
+   opslimitsnb   _j3v3_....................... : 35000.00000_0
+   opsresultsactnb _j3v4_....................... : 0.00000_0
+   opsresultsmaxnb _j3v4_....................... : 0.00000_0
+   opslimitsnb   _j3v4_....................... : 35000.00000_0
+   opsresultsactnb _j3v5_....................... : 0.00000_0
+   opsresultsmaxnb _j3v5_....................... : 0.00000_0
+   opslimitsnb   _j3v5_....................... : 35000.00000_0
+   opsresultsactnb _j3v6_....................... : 0.00000_0
+   opsresultsmaxnb _j3v6_....................... : 0.00000_0
+   opslimitsnb   _j3v6_....................... : 35000.00000_0
+   opsresultsactnb _j3v7_....................... : 0.00000_0
+   opsresultsmaxnb _j3v7_....................... : 0.00000_0
+   opslimitsnb   _j3v7_....................... : 35000.00000_0
+   opsresultsactnb _j3v8_....................... : 0.00000_0
+   opsresultsmaxnb _j3v8_....................... : 0.00000_0
+   opslimitsnb   _j3v8_....................... : 35000.00000_0
+1134 opsaveragingintnb_j4_........................... : 20.000000 s
+   opsresultsactnb _j4v0_....................... : 0.00000_0
+   opsresultsmaxnb _j4v0_....................... : 74.47284_7
+   opslimitsnb   _j4v0_....................... : 35000.00000_0
+   opsresultsactnb _j4v1_....................... : 0.00000_0
+   opsresultsmaxnb _j4v1_....................... : 0.00000_0
+   opslimitsnb   _j4v1_....................... : 35000.00000_0
+   opsresultsactnb _j4v2_....................... : 0.00000_0
+   opsresultsmaxnb _j4v2_....................... : 0.00000_0
+   opslimitsnb   _j4v2_....................... : 35000.00000_0
+   opsresultsactnb _j4v3_....................... : 0.00000_0
+   opsresultsmaxnb _j4v3_....................... : 0.00000_0
+   opslimitsnb   _j4v3_....................... : 35000.00000_0
+   opsresultsactnb _j4v4_....................... : 0.00000_0
+   opsresultsmaxnb _j4v4_....................... : 0.00000_0
+   opslimitsnb   _j4v4_....................... : 35000.00000_0
+   opsresultsactnb _j4v5_....................... : 0.00000_0
+   opsresultsmaxnb _j4v5_....................... : 0.00000_0
+   opslimitsnb   _j4v5_....................... : 35000.00000_0
+   opsresultsactnb _j4v6_....................... : 0.00000_0
+   opsresultsmaxnb _j4v6_....................... : 0.00000_0
+   opslimitsnb   _j4v6_....................... : 35000.00000_0
+   opsresultsactnb _j4v7_....................... : 0.00000_0
+   opsresultsmaxnb _j4v7_....................... : 0.00000_0
+   opslimitsnb   _j4v7_....................... : 35000.00000_0
+   opsresultsactnb _j4v8_....................... : 0.00000_0
+   opsresultsmaxnb _j4v8_....................... : 0.00000_0
+   opslimitsnb   _j4v8_....................... : 35000.00000_0
+1135 opsaveragingintnb_j5_........................... : 360.000000 s
+   opsresultsactnb _j5v0_....................... : 4.13738_1
+   opsresultsmaxnb _j5v0_....................... : 4.13738_1
+   opslimitsnb   _j5v0_....................... : 35000.00000_0
+   opsresultsactnb _j5v1_....................... : 0.00000_0
+   opsresultsmaxnb _j5v1_....................... : 0.00000_0
+   opslimitsnb   _j5v1_....................... : 35000.00000_0
+   opsresultsactnb _j5v2_....................... : 0.00000_0
+   opsresultsmaxnb _j5v2_....................... : 0.00000_0
+   opslimitsnb   _j5v2_....................... : 35000.00000_0
+   opsresultsactnb _j5v3_....................... : 0.00000_0
+   opsresultsmaxnb _j5v3_....................... : 0.00000_0
+   opslimitsnb   _j5v3_....................... : 35000.00000_0
+   opsresultsactnb _j5v4_....................... : 0.00000_0
+   opsresultsmaxnb _j5v4_....................... : 0.00000_0
+   opslimitsnb   _j5v4_....................... : 35000.00000_0
+   opsresultsactnb _j5v5_....................... : 0.00000_0
+   opsresultsmaxnb _j5v5_....................... : 0.00000_0
+   opslimitsnb   _j5v5_....................... : 35000.00000_0
+   opsresultsactnb _j5v6_....................... : 0.00000_0
+   opsresultsmaxnb _j5v6_....................... : 0.00000_0
+   opslimitsnb   _j5v6_....................... : 35000.00000_0
+   opsresultsactnb _j5v7_....................... : 0.00000_0
+   opsresultsmaxnb _j5v7_....................... : 0.00000_0
+   opslimitsnb   _j5v7_....................... : 35000.00000_0
+   opsresultsactnb _j5v8_....................... : 0.00000_0
+   opsresultsmaxnb _j5v8_....................... : 0.00000_0
+   opslimitsnb   _j5v8_....................... : 35000.00000_0
+1136 ops_averaging_delay_nb_........................... : 0.671910_s
+1137 ops_enmo_results_patientid_....................... : 0
+   ops_enmo_results_limit_........................... : 60.000000
+   ops_enmo_results_limit_exceeded_.................. : 0
+   ops_enmo_results_current_duration_................ : 116.100310_s
+   ops_enmo_results_current_cem43_................... : 0.0004724
+   ops_enmo_results_current_cemcool_................. : 0.02607
+   ops_enmo_results_current_theta_................... : 37
+   ops_enmo_results_max_theta_....................... : 37
+1200 operation_mode_................................... : normal
+1201 sed_after_measurement_............................ : 0.000000_j/kg
+1202 energy_of_measurement_requested_n0_........... : 0.000000_w_s
+1203 energy_of_measurement_requested_n1_........... : 0.000000_w_s
+1204 start_of_measurement _host_time_............... : 07:12:05.420737
+1205 finish_of_measurement host_time_............... : 07:12:05.563355
+1206 total_measurement_time_host_.................... : 0.142619_s
+1207 start_of_measurement _mcir_time_............... : not_started
+1208 finish_of_measurement mcir_time_............... : not_stopped
+1209 pause_after_measurement_........................... : 0.000000_s
+1210 pause_averaging_time_............................. : 0.000000_s
+1211 meas_uid_......................................... : 6
+1212 rfswdstatusadccheck_.............................. : ok
+   rfswdstatusmeasdevicecheck_....................... : ok
+   rfswdstatustxreflcheck_........................... : ok
+   rfswdstatusrfpaoscicheck_......................... : ok
+   rfswdstatustxbampldriftcheck_..................... : ok
+   rfswdstatusprediction_............................ : ok
+   rfswdstatustracinglimitsexceeded_................. : no
+   rfswdstatussarinconsistency_...................... : no
+   rfswdstatushostmarsinconsistency_................. : no
+   rfswdstatusopsswitchedoff_........................ : no
+   rfswdstatusnofinishevent_......................... : no
+   rfswdstatustxbampldriftcheckwarn_................. : no
+   rfswdstatussedthreshwarn_......................... : no
+   rfswdstatusinternalerror_......................... : no

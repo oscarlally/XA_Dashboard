@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/04_09:09:20.867357",
+    "start_time": "09:09:20",
+    "measurement_time": "21.039950_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "12.385077_s",
+    "readout_and_check_time_bb": "09:09:20",
+    "start_of_measurement_host_time": "09:08:59",
+    "finish_of_measurement_host_time": "09:09:20",
+    "start_of_measurement_mcir_time": "09:08:59",
+    "finish_of_measurement_mcir_time": "09:09:20",
+    "total_measurement_time_host": "21.163402_s",
+    "total_measurement_time_mcir": "21.079564_s",
+    "pause_after_measurement": "12.345462_s",
+    "pause_averaging_time": "21.079564_s",
+    "meas_uid": "64",
+    "protocol_name": "localizer_liver_dome_fb"
+}

@@ -1,0 +1,6 @@
+openpy
+psycopg2
+numpy
+matplotlib
+pandas
+openpyxl

@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/05_15:26:23.535813",
+    "start_time": "15:26:23",
+    "measurement_time": "13.857990_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "15:26:22",
+    "start_of_measurement_host_time": "15:26:09",
+    "finish_of_measurement_host_time": "15:26:23",
+    "start_of_measurement_mcir_time": "15:26:08",
+    "finish_of_measurement_mcir_time": "15:26:22",
+    "total_measurement_time_host": "13.973640_s",
+    "total_measurement_time_mcir": "13.888356_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "472",
+    "protocol_name": "aahead_scout"
+}

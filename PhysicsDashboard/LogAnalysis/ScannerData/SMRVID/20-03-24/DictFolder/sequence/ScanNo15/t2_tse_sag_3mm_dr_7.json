@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/20_17:31:53.986190",
+    "start_time": "17:31:53",
+    "measurement_time": "88.509920_s",
+    "allowed_meas_pause": "45.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "35.368078_s",
+    "readout_and_check_time_bb": "17:31:51",
+    "start_of_measurement_host_time": "17:30:25",
+    "finish_of_measurement_host_time": "17:31:53",
+    "start_of_measurement_mcir_time": "17:30:23",
+    "finish_of_measurement_mcir_time": "17:31:51",
+    "total_measurement_time_host": "88.623902_s",
+    "total_measurement_time_mcir": "88.535103_s",
+    "pause_after_measurement": "35.333373_s",
+    "pause_averaging_time": "87.034700_s",
+    "meas_uid": "538",
+    "protocol_name": "t2_tse_sag_3mm_dr"
+}

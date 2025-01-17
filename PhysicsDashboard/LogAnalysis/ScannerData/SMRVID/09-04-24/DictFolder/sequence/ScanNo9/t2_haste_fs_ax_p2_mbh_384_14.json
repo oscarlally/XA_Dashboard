@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/09_12:55:51.779546",
+    "start_time": "12:55:51",
+    "measurement_time": "95.112380_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "12:55:50",
+    "start_of_measurement_host_time": "12:54:09",
+    "finish_of_measurement_host_time": "12:55:51",
+    "start_of_measurement_mcir_time": "12:54:08",
+    "finish_of_measurement_mcir_time": "12:55:50",
+    "total_measurement_time_host": "102.520716_s",
+    "total_measurement_time_mcir": "102.434878_s",
+    "pause_after_measurement": "9.114203_s",
+    "pause_averaging_time": "17.424752_s",
+    "meas_uid": "312",
+    "protocol_name": "t2_haste_fs_ax_p2_mbh_384"
+}

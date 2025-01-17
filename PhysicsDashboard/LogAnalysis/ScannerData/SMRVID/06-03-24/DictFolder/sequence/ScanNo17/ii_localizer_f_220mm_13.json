@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/06_15:39:58.945220",
+    "start_time": "15:39:58",
+    "measurement_time": "17.474400_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "15:39:59",
+    "start_of_measurement_host_time": "15:39:41",
+    "finish_of_measurement_host_time": "15:39:58",
+    "start_of_measurement_mcir_time": "15:39:41",
+    "finish_of_measurement_mcir_time": "15:39:59",
+    "total_measurement_time_host": "17.594939_s",
+    "total_measurement_time_mcir": "17.505403_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "450",
+    "protocol_name": "ii_localizer_f_220mm"
+}

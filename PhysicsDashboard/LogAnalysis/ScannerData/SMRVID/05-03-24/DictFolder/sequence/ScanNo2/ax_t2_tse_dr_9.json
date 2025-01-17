@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/05_09:30:54.011296",
+    "start_time": "09:30:54",
+    "measurement_time": "72.909930_s",
+    "allowed_meas_pause": "60.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "2.174963_s",
+    "readout_and_check_time_bb": "09:30:53",
+    "start_of_measurement_host_time": "09:29:40",
+    "finish_of_measurement_host_time": "09:30:53",
+    "start_of_measurement_mcir_time": "09:29:40",
+    "finish_of_measurement_mcir_time": "09:30:53",
+    "total_measurement_time_host": "73.029633_s",
+    "total_measurement_time_mcir": "72.938455_s",
+    "pause_after_measurement": "2.158198_s",
+    "pause_averaging_time": "70.938023_s",
+    "meas_uid": "18",
+    "protocol_name": "ax_t2_tse_dr"
+}

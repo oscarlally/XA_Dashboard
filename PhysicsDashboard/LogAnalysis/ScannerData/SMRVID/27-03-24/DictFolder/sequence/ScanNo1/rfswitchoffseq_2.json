@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/27_07:15:34.300786",
+    "start_time": "07:15:34",
+    "measurement_time": "1.280020_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "07:15:33",
+    "start_of_measurement_host_time": "07:15:33",
+    "finish_of_measurement_host_time": "07:15:34",
+    "start_of_measurement_mcir_time": "not_started",
+    "finish_of_measurement_mcir_time": "not_stopped",
+    "total_measurement_time_host": "0.124669_s",
+    "total_measurement_time_mcir": "No data",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "3",
+    "protocol_name": "rfswitchoffseq"
+}

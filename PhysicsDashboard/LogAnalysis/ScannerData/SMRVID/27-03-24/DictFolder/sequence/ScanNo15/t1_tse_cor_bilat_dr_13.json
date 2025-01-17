@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/27_17:24:20.605947",
+    "start_time": "17:24:20",
+    "measurement_time": "128.709850_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "28.128510_s",
+    "readout_and_check_time_bb": "17:24:17",
+    "start_of_measurement_host_time": "17:22:11",
+    "finish_of_measurement_host_time": "17:24:20",
+    "start_of_measurement_mcir_time": "17:22:09",
+    "finish_of_measurement_mcir_time": "17:24:17",
+    "total_measurement_time_host": "128.824403_s",
+    "total_measurement_time_mcir": "128.731510_s",
+    "pause_after_measurement": "28.097564_s",
+    "pause_averaging_time": "127.230953_s",
+    "meas_uid": "456",
+    "protocol_name": "t1_tse_cor_bilat_dr"
+}

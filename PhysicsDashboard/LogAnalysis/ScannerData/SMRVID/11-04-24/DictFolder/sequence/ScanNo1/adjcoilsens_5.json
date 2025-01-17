@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/11_17:57:20.785800",
+    "start_time": "17:57:20",
+    "measurement_time": "4.325050_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "17:57:23",
+    "start_of_measurement_host_time": "17:57:15",
+    "finish_of_measurement_host_time": "17:57:20",
+    "start_of_measurement_mcir_time": "17:57:18",
+    "finish_of_measurement_mcir_time": "17:57:23",
+    "total_measurement_time_host": "4.856014_s",
+    "total_measurement_time_mcir": "4.428056_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "661",
+    "protocol_name": "adjcoilsens"
+}

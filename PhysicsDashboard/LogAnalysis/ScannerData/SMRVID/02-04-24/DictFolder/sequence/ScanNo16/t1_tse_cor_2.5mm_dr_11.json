@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/02_17:37:53.456501",
+    "start_time": "17:37:53",
+    "measurement_time": "105.909940_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "17:37:54",
+    "start_of_measurement_host_time": "17:36:07",
+    "finish_of_measurement_host_time": "17:37:53",
+    "start_of_measurement_mcir_time": "17:36:08",
+    "finish_of_measurement_mcir_time": "17:37:54",
+    "total_measurement_time_host": "106.025571_s",
+    "total_measurement_time_mcir": "105.944796_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "105.944796_s",
+    "meas_uid": "511",
+    "protocol_name": "t1_tse_cor_2.5mm_dr"
+}

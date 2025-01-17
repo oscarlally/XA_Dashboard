@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/11_11:12:03.357014",
+    "start_time": "11:12:03",
+    "measurement_time": "167.819300_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "11:12:04",
+    "start_of_measurement_host_time": "11:09:15",
+    "finish_of_measurement_host_time": "11:12:03",
+    "start_of_measurement_mcir_time": "11:09:16",
+    "finish_of_measurement_mcir_time": "11:12:04",
+    "total_measurement_time_host": "167.946884_s",
+    "total_measurement_time_mcir": "167.875780_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "256",
+    "protocol_name": "ax_dwi_fs_resolve"
+}

@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/11_07:39:26.181422",
+    "start_time": "07:39:26",
+    "measurement_time": "52.200000_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "07:39:26",
+    "start_of_measurement_host_time": "07:38:33",
+    "finish_of_measurement_host_time": "07:39:26",
+    "start_of_measurement_mcir_time": "07:38:33",
+    "finish_of_measurement_mcir_time": "07:39:26",
+    "total_measurement_time_host": "52.314488_s",
+    "total_measurement_time_mcir": "52.232101_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "14",
+    "protocol_name": "sn"
+}

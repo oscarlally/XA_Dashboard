@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/03_14:42:25.589850",
+    "start_time": "14:42:25",
+    "measurement_time": "174.849950_s",
+    "allowed_meas_pause": "60.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "14:42:24",
+    "start_of_measurement_host_time": "14:39:30",
+    "finish_of_measurement_host_time": "14:42:25",
+    "start_of_measurement_mcir_time": "14:39:29",
+    "finish_of_measurement_mcir_time": "14:42:24",
+    "total_measurement_time_host": "174.960968_s",
+    "total_measurement_time_mcir": "174.870696_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "174.870696_s",
+    "meas_uid": "539",
+    "protocol_name": "t1_tse_dark-fluid_sag_p2_dr"
+}

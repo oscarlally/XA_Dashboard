@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/08_16:40:53.063182",
+    "start_time": "16:40:53",
+    "measurement_time": "3.600000_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "16:40:49",
+    "start_of_measurement_host_time": "16:40:52",
+    "finish_of_measurement_host_time": "16:40:53",
+    "start_of_measurement_mcir_time": "16:40:49",
+    "finish_of_measurement_mcir_time": "16:40:49",
+    "total_measurement_time_host": "0.308176_s",
+    "total_measurement_time_mcir": "0.226711_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "553",
+    "protocol_name": "adjdico"
+}

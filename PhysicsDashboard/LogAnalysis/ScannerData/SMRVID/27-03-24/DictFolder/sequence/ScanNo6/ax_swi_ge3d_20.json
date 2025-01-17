@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/27_11:55:09.387573",
+    "start_time": "11:55:09",
+    "measurement_time": "150.969830_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "11:55:08",
+    "start_of_measurement_host_time": "11:52:38",
+    "finish_of_measurement_host_time": "11:55:09",
+    "start_of_measurement_mcir_time": "11:52:37",
+    "finish_of_measurement_mcir_time": "11:55:08",
+    "total_measurement_time_host": "151.094834_s",
+    "total_measurement_time_mcir": "150.997031_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "132",
+    "protocol_name": "ax_swi_ge3d"
+}

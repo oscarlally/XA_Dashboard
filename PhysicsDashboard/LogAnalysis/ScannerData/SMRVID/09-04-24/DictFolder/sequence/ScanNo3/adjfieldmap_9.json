@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/09_07:54:49.145920",
+    "start_time": "07:54:49",
+    "measurement_time": "12.500960_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "07:54:48",
+    "start_of_measurement_host_time": "07:54:35",
+    "finish_of_measurement_host_time": "07:54:49",
+    "start_of_measurement_mcir_time": "07:54:35",
+    "finish_of_measurement_mcir_time": "07:54:48",
+    "total_measurement_time_host": "13.600624_s",
+    "total_measurement_time_mcir": "13.513047_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "30",
+    "protocol_name": "adjfieldmap"
+}

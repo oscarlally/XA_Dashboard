@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/06_12:57:02.810877",
+    "start_time": "12:57:02",
+    "measurement_time": "19.213950_s",
+    "allowed_meas_pause": "0.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "12:57:03",
+    "start_of_measurement_host_time": "12:56:36",
+    "finish_of_measurement_host_time": "12:57:02",
+    "start_of_measurement_mcir_time": "12:56:36",
+    "finish_of_measurement_mcir_time": "12:57:03",
+    "total_measurement_time_host": "26.269831_s",
+    "total_measurement_time_mcir": "26.188209_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "0.000000_s",
+    "meas_uid": "315",
+    "protocol_name": "t2_trufi_ax_bh"
+}

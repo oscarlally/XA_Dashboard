@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/22_11:58:20.444026",
+    "start_time": "11:58:20",
+    "measurement_time": "203.109950_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "11:58:19",
+    "start_of_measurement_host_time": "11:54:55",
+    "finish_of_measurement_host_time": "11:58:20",
+    "start_of_measurement_mcir_time": "11:54:55",
+    "finish_of_measurement_mcir_time": "11:58:19",
+    "total_measurement_time_host": "204.616693_s",
+    "total_measurement_time_mcir": "204.530560_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "204.530560_s",
+    "meas_uid": "292",
+    "protocol_name": "t1_space_sag_cs4"
+}

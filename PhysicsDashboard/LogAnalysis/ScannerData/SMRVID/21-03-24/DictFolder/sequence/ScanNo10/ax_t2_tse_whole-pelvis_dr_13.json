@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/21_13:02:10.868602",
+    "start_time": "13:02:10",
+    "measurement_time": "134.889930_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "3.026141_s",
+    "readout_and_check_time_bb": "13:02:09",
+    "start_of_measurement_host_time": "12:59:55",
+    "finish_of_measurement_host_time": "13:02:10",
+    "start_of_measurement_mcir_time": "12:59:54",
+    "finish_of_measurement_mcir_time": "13:02:09",
+    "total_measurement_time_host": "135.009965_s",
+    "total_measurement_time_mcir": "134.911150_s",
+    "pause_after_measurement": "3.018873_s",
+    "pause_averaging_time": "132.909968_s",
+    "meas_uid": "403",
+    "protocol_name": "ax_t2_tse_whole-pelvis_dr"
+}

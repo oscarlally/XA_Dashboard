@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/26_16:22:47.664227",
+    "start_time": "16:22:47",
+    "measurement_time": "177.459940_s",
+    "allowed_meas_pause": "60.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "38.205917_s",
+    "readout_and_check_time_bb": "16:22:49",
+    "start_of_measurement_host_time": "16:19:50",
+    "finish_of_measurement_host_time": "16:22:47",
+    "start_of_measurement_mcir_time": "16:19:51",
+    "finish_of_measurement_mcir_time": "16:22:49",
+    "total_measurement_time_host": "177.574080_s",
+    "total_measurement_time_mcir": "177.498374_s",
+    "pause_after_measurement": "38.198295_s",
+    "pause_averaging_time": "176.997429_s",
+    "meas_uid": "517",
+    "protocol_name": "cor_stir_tse"
+}

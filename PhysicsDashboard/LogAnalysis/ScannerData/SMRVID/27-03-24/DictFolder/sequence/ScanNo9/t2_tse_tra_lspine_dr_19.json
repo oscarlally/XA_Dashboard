@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/27_14:25:58.432858",
+    "start_time": "14:25:58",
+    "measurement_time": "121.520000_s",
+    "allowed_meas_pause": "45.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "14:25:56",
+    "start_of_measurement_host_time": "14:23:56",
+    "finish_of_measurement_host_time": "14:25:58",
+    "start_of_measurement_mcir_time": "14:23:54",
+    "finish_of_measurement_mcir_time": "14:25:56",
+    "total_measurement_time_host": "121.635634_s",
+    "total_measurement_time_mcir": "121.542145_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "121.542145_s",
+    "meas_uid": "316",
+    "protocol_name": "t2_tse_tra_lspine_dr"
+}

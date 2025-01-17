@@ -1,0 +1,1138 @@
+FW: Level 4 service keys, GSTT MRII believe this should be the up to date license key for EMRI @Wright Alan (AWRIGHT4) – I will test it today
+ 
+From: Haire, David <david.haire@siemens-healthineers.com> Date: Thursday, 14 December 2023 at 16:41 To: Small Jamie <Jamie.Small@gstt.nhs.uk> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: RE: Level 4 service keys, GSTT MRI
+Hi Jamie, 
+ 
+Attached as requested. 
+ 
+With best regards, David Haire
+ 
+MRI Technical Customer Support – Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 1 1 – MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com
+ 
+ 
+ 
+ 
+From: Small Jamie <Jamie.Small@gstt.nhs.uk>  Sent: 14 December 2023 11:36 To: Haire, David <david.haire@siemens-healthineers.com> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+
+You don't often get email from jamie.small@gstt.nhs.uk. Learn why this is important
+
+Hi David,  I believe we’ve missed one of our scanners off of these service key updates. Would you please be able to pass on the key for the Evelina Vida serial No. 176175?  Many Thanks  Jamie Small  GSTT MR Physics
+ 
+From: Gabriel Elizabeth <Elizabeth.Gabriel@gstt.nhs.uk> Date: Wednesday, 25 October 2023 at 16:17 To: Haire, David <david.haire@siemens-healthineers.com> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: Re: Level 4 service keys, GSTT MRI
+Hi David, 
+ 
+Great, thanks so much!
+ 
+Best wishes, 
+Liz
+ 
+From: Haire, David <david.haire@siemens-healthineers.com> Date: Wednesday, 25 October 2023 at 16:09 To: Gabriel Elizabeth <Elizabeth.Gabriel@gstt.nhs.uk> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: RE: Level 4 service keys, GSTT MRI
+Hi Liz, 
+ 
+Attached as requested. Expiry is 10.10.24
+ 
+With best regards, David Haire
+ 
+MRI Technical Customer Support – Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 1 1 – MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com
+  
+ 
+ 
+ 
+From: Gabriel Elizabeth <Elizabeth.Gabriel@gstt.nhs.uk>  Sent: 24 October 2023 15:10 To: Haire, David <david.haire@siemens-healthineers.com>; TSEMR3.med.gb@siemens.com Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+
+You don't often get email from elizabeth.gabriel@gstt.nhs.uk. Learn why this is important
+
+Hi David, 
+ 
+Thanks so much for the service keys! It is much appreciated
+ 
+Would it be possible to resend the service key for the Avanto Fit (169610)? I think this one was missed off (.dat file is for 141028 instead of 169610)
+ 
+Many thanks for your help, 
+Liz
+ 
+￼
+Liz Gabriel
+Physicist in Magnetic Resonance 
+ 
+KCL: elizabeth.gabriel@kcl.ac.uk 
+GSTT: elizabeth.gabriel@gstt.nhs.uk
+ 
+ 
+Guy's and St Thomas' NHS Foundation Trust  
+ 
+￼
+ 
+ 
+ 
+From: Pickles Elisabeth (EPICKLES) <Elisabeth.Pickles@gstt.nhs.uk> Date: Thursday, 12 October 2023 at 10:06 To: Haire, David <david.haire@siemens-healthineers.com>, TSEMR3.med.gb@siemens.com <TSEMR3.med.gb@siemens.com> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: Re: Level 4 service keys, GSTT MRI
+Hi David,
+ 
+Thanks for this.
+ 
+Best wishes,
+ 
+Lis
+ 
+From: Haire, David <david.haire@siemens-healthineers.com> Date: Wednesday, 11 October 2023 at 21:42 To: Pickles Elisabeth (EPICKLES) <Elisabeth.Pickles@gstt.nhs.uk>, TSEMR3.med.gb@siemens.com <TSEMR3.med.gb@siemens.com> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: RE: Level 4 service keys, GSTT MRI
+Hi Liz, 
+            
+Please find the new keys attached and below. 
+ 
+F-Location
+Serial No.
+System
+ 
+Expiry Date
+006-MR00028680
+41058
+Magnetom Aera 
+2F17624A79675B83695B
+10-Oct-24
+006-MR00037420
+41538
+Magnetom Aera 
+BF27C2EABD720EDAF3FF
+10-Oct-24
+006-MR00037420
+41538
+Aera WP
+4F6702FA7C23CA38629C
+10-Oct-24
+006-MR00044490
+42170
+Aera
+AF97826AE9437BF074A8
+10-Oct-24
+006-MR00044490
+42170
+Aera WP
+DF0762DA945351D160F9
+10-Oct-24
+006-MR00047600
+46228
+Skyra
+EF4792AAAB59C45A9079
+10-Oct-24
+006-MR00047610
+46229
+Skyra
+CF37B23AB4CC57B2F336
+10-Oct-24
+006-MR00039180
+51031
+Biograph MMR
+5FA7B25A700AA346123C
+10-Oct-24
+006-MR00049530
+141028
+Aera
+BF47723A1400164A9F2A
+10-Oct-24
+006-MR00053790
+169610
+AvantoFit
+See attached 
+10-Oct-24
+006-MR00063790
+142391
+Agito Aera
+See attached 
+10-Oct-24
+006-MR00057760
+142364
+Evelina Aera
+See attached 
+10-Oct-24
+006-MR00072750
+176584
+Vida
+See attached 
+10-Oct-24
+ 
+ 
+With best regards, David Haire
+ 
+MRI Technical Customer Support – Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 1 1 – MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com
+   
+ 
+ 
+ 
+From: Pickles Elisabeth (EPICKLES) <Elisabeth.Pickles@gstt.nhs.uk>  Sent: 02 October 2023 10:33 To: Haire, David <david.haire@siemens-healthineers.com>; TSEMR3.med.gb@siemens.com Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+
+You don't often get email from elisabeth.pickles@gstt.nhs.uk. Learn why this is important
+
+Dear Siemens/David,
+ 
+Our L4 Service Keys at GSTT have now expired. Please can you issue new Level 4 service keys for the systems listed in the email below, including 006-MR00053790, for which we don’t have a key anymore following a software upgrade? 
+ 
+Many thanks,
+ 
+Lis
+ 
+Elisabeth Pickles
+Senior MR Physicist
+Guy’s and St Thomas’ NHS Foundation Trust (GSTT)
+King’s College London (KCL)
+King’s College Hospital (KCH)
+GSTT email: elisabeth.pickles@gstt.nhs.uk
+KCL email: elisabeth.pickles@.kcl.ac.uk
+KCH email: elisabeth.pickles@nhs.net
+ 
+ 
+From: Shah Simon <Simon.Shah@gstt.nhs.uk> Date: Wednesday, 13 September 2023 at 12:00 To: Haire, David <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+Hi David,
+ 
+Just to follow up on this email from Alan in our team. Please could we get the L4 service keys for our GSTT scanners.
+ 
+Additionally a software upgrade was recently one on 006-MR00053790 which we don’t have the key for anymore.
+ 
+Thanks
+Simon
+ 
+ 
+_________________________________________________________
+Dr. Simon Shah
+Principal Physicist in Magnetic Resonance
+Clinical Imaging and Medical Physics – Clinical Audit Lead
+MR Safety Expert (MRSCTM)
+Guy's and St Thomas' NHS Foundation Trust
+Tel: 07531420533 
+ 
+While it sometimes suits me to email outside of normal working hours, I do not expect a response outside your own. 
+ 
+Our values: Put patients first | Take pride in what we do | Respect others | Strive to be the best | Act with integrity
+ 
+ 
+From: Wright Alan (AWRIGHT4) <Alan.Wright@gstt.nhs.uk> Date: Tuesday, 5 September 2023 at 11:35 To: david.haire@siemens-healthineers.com <david.haire@siemens-healthineers.com> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: FW: Level 4 service keys, GSTT MRI
+Dear David,
+My name is Alan and I work in MR Physics at Guy’s and St Thomas’. Our scanner’s service keys are about to expirt, can you issue new Level 4 service keys for the following system please?
+ 
+F-Location
+Serial No.
+System
+Expiry Date
+006-MR00028680
+41058
+Magnetom Aera 
+30-Sep-23
+006-MR00037420
+41538
+Magnetom Aera 
+30-Sep-23
+006-MR00037420
+41538
+Aera WP
+30-Sep-23
+006-MR00044490
+42170
+Aera
+30-Sep-23
+006-MR00044490
+42170
+Aera WP
+30-Sep-23
+006-MR00047600
+46228
+Skyra
+30-Sep-23
+006-MR00047610
+46229
+Skyra
+30-Sep-23
+006-MR00039180
+51031
+Biograph MMR
+30-Sep-23
+006-MR00049530
+141028
+Aera
+30-Sep-23
+006-MR00053790
+169610
+AvantoFit
+30-Sep-23
+006-MR00063790
+142391
+Agito Aera
+30-Sep-23
+006-MR00057760
+142364
+Evelina Aera
+30-Sep-23
+006-MR00072750
+176584
+Vida
+
+ 
+ 
+ 
+Also, I have a query about the Avanto Fit in this list. On going to options, service, local service this morning I got the following service key request (see attached photo). 
+￼
+ 
+ 
+Is this the correct screen for entering the level 4 service key? I could not get it to work…
+Thanks for the help and the service keys
+Alan Wright
+MR Physics
+Guy’s and St Thomas’ NHS Foundation Trust
+ 
+From: Franklin Rachael <Rachael.Franklin@gstt.nhs.uk> Date: Tuesday, 5 September 2023 at 09:53 To: Wright Alan (AWRIGHT4) <Alan.Wright@gstt.nhs.uk> Subject: FW: Level 4 service keys, GSTT MRI
+ 
+ 
+From: Franklin Rachael <Rachael.Franklin@gstt.nhs.uk> Date: Monday, 16 January 2023 at 10:42 To: Haire, David <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+Hi David,
+ 
+Thank you very much for this assistance.
+ 
+Best regards,
+Rachael
+ 
+From: Haire, David <david.haire@siemens-healthineers.com> Date: Friday, 13 January 2023 at 12:26 To: Franklin Rachael <Rachael.Franklin@gstt.nhs.uk> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: RE: Level 4 service keys, GSTT MRI
+Hi Rachael, 
+ 
+Attached as requested. 
+ 
+With best regards, David Haire
+ MRI Technical Customer Support – Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 1 1 - MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare ￼ Siemens Healthcare Limited registered office: Park View, Watchmoor Park, Camberley, Surrey GU15 3YL. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+From: Franklin Rachael <Rachael.Franklin@gstt.nhs.uk>  Sent: 11 January 2023 15:37 To: Haire, David <david.haire@siemens-healthineers.com> Cc: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+
+You don't often get email from rachael.franklin@gstt.nhs.uk. Learn why this is important
+
+Hi David,
+ 
+I appear to be having trouble tracking down our Level 4 service key for the recently installed Vida:
+System ID 006-MR00072750; Serial Number 176584
+ 
+Would you possibly mind re-sending it to us?
+ 
+Many thanks for your assistance,
+Rachael
+ 
+MR Physicist
+Guy’s and St Thomas’ NHS Foundation Trust 
+ 
+ 
+From: Shah Simon <Simon.Shah@gstt.nhs.uk> Date: Monday, 3 October 2022 at 09:21 To: :MRI Physics <MRIPhysics@gstt.nhs.uk> Subject: FW: Level 4 service keys, GSTT MRI
+FYI
+ 
+From: Haire, David [mailto:david.haire@siemens-healthineers.com]  Sent: 30 September 2022 13:03 To: Shah Simon <Simon.Shah@gstt.nhs.uk> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi Simon, 
+ 
+F-Location
+Serial No.
+System
+L4 Key
+Expiry Date
+006-MR00028680
+41058
+Magnetom Aera 
+8F35616E9D87B51C9FC9
+30-Sep-23
+006-MR00037420
+41538
+Magnetom Aera 
+1F15C1DEDCA1F9C176EF
+30-Sep-23
+006-MR00037420
+41538
+Aera WP
+CF6521DE5DC671FF24E8
+30-Sep-23
+006-MR00044490
+42170
+Aera
+2FB5815EC902A519B8FC
+30-Sep-23
+006-MR00044490
+42170
+Aera WP
+5F0561EE7189E358666B
+30-Sep-23
+006-MR00047600
+46228
+Skyra
+6F65918ECAAFEA4B9F68
+30-Sep-23
+006-MR00047610
+46229
+Skyra
+4F35911ED4AD9D6935C2
+30-Sep-23
+006-MR00039180
+51031
+Biograph MMR
+DFA5916E5142E901ED4B
+30-Sep-23
+006-MR00049530
+141028
+Aera
+DF75618EC420F8ED9C7D
+30-Sep-23
+006-MR00053790
+169610
+AvantoFit
+4F6511CEBFA1C834FFEF
+30-Sep-23
+006-MR00063790
+142391
+Agito Aera
+See attached
+30-Sep-23
+006-MR00057760
+142364
+Evelina Aera
+See attached
+30-Sep-23
+ 
+Please let me know if any don’t work. 
+ 
+With best regards, David Haire
+ MRI Technical Customer Support – Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 6 1 - MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare
+<image001.png>
+ Siemens Healthcare Limited registered office: Park View, Watchmoor Park, Camberley, Surrey GU15 3YL. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+From: Shah Simon <Simon.Shah@gstt.nhs.uk>  Sent: 30 September 2022 09:35 To: Haire, David <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+
+You don't often get email from simon.shah@gstt.nhs.uk. Learn why this is important
+
+Hi David,
+ 
+Our keys are expiring this weekend.
+ 
+Could we get new keys please.
+ 
+Thanks
+Simon
+ 
+From: Shah Simon <Simon.Shah@gstt.nhs.uk> Date: Tuesday, 27 September 2022 at 09:32 To: Haire, David <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+Hi David,
+ 
+Please may we have the updated L4 keys, as current are expiring at the end of the week?
+ 
+Thanks
+Simon 
+ 
+_________________________________________________________
+Dr. Simon Shah
+Principal Physicist in Magnetic Resonance
+MR Safety Expert (MRSCTM)
+Guy's and St Thomas' NHS Foundation Trust
+Tel: 07531420533 
+ 
+While it sometimes suits me to email outside of normal working hours, I do not expect a response outside your own. 
+ 
+Our values: Put patients first | Take pride in what we do | Respect others | Strive to be the best | Act with integrity
+ 
+ 
+From: Haire, David <david.haire@siemens-healthineers.com> Date: Sunday, 3 October 2021 at 19:47 To: Shah Simon <Simon.Shah@gstt.nhs.uk> Subject: RE: Level 4 service keys, GSTT MRI
+Hi Simon, 
+ 
+Below and attached as requested. 
+ 
+F-Location
+Serial No.
+System
+L4 Key
+Expiry Date
+006-MR00028680
+41058
+Magnetom Aera 
+1F135211790F5182355B
+01-Oct-22
+006-MR00037420
+41538
+Magnetom Aera 
+8F23E2E1BD1E0CDBA7FF 
+01-Oct-22
+006-MR00037420
+41538
+Aera WP
+6F6332E17C43E819249C
+01-Oct-22
+006-MR00044490
+42170
+Aera
+9F83A261E90AC59FD0A8
+01-Oct-22
+006-MR00044490
+42170
+Aera WP
+FF1342D194A916CE9FF
+01-Oct-22
+006-MR00047600
+46228
+Skyra
+DFC3B2B1AB348E598679
+01-Oct-22
+006-MR00047610
+46229
+Skyra
+FFB39231B48171A3E436
+01-Oct-22
+006-MR00039180
+51031
+Biograph MMR
+7F2392417047C921FE3C
+01-Oct-22
+006-MR00049530
+141028
+Aera
+9F235291C137CF69C72A
+01-Oct-22
+006-MR00053790
+169610
+AvantoFit
+AF6302E17FB2BB36ACFB
+01-Oct-22
+006-MR00063790
+142391
+Agito Aera
+See attached
+01-Oct-22
+006-MR00057760
+142364
+Evelina Aera
+See attached
+01-Oct-22
+ 
+With best regards, David Haire
+ MRI Technical Customer Support – Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 6 1 - MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare
+<image001.png>
+ Siemens Healthcare Limited registered office: Faraday House, Sir William Siemens Square, Frimley, Camberley, GU16 8QD. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+ 
+From: Shah Simon <Simon.Shah@gstt.nhs.uk>  Sent: 02 October 2021 15:50 To: Haire, David <david.haire@siemens-healthineers.com> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi David,
+ 
+Please can I request the Level 4 service keys for the scanners listed below for when they expire at the end of the month.
+ 
+Thanks
+Simon 
+ 
+_________________________________________________________
+Dr. Simon Shah
+Principal Physicist in Magnetic Resonance
+Guy's and St Thomas' NHS Foundation Trust
+Tel: 07531420533 
+ 
+Our values: Put patients first | Take pride in what we do | Respect others | Strive to be the best | Act with integrity
+ 
+ 
+From: "Haire, David" <david.haire@siemens-healthineers.com> Date: Friday, 30 October 2020 at 12:47 To: "Charles-Edwards, Geoff" <geoff.charles-edwards@kcl.ac.uk> Cc: Price David <David.Price@gstt.nhs.uk>, Physics-MRI <physics-mri@kcl.ac.uk> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi Geoff, 
+ 
+Attached are the Annual Level 4 keys. 
+ 
+F-Location
+Serial No.
+System
+L4 Key
+Expiry Date
+006-MR0011110
+25780
+Avanto
+FFD1330CF1DD68816CAC
+28-Oct-21
+006-MR0011110
+25780
+Avanto WP
+AFD1A31C998D55CF21D8
+28-Oct-21
+006-MR00028680
+41058
+Magnetom Aera 
+AF51733C7987251E565B
+28-Oct-21
+006-MR00037420
+41538
+Magnetom Aera 
+BF61C3CCBD89D9E13FFF
+28-Oct-21
+006-MR00037420
+41538
+Aera WP
+4F2133CC7C6F75CDEF9C
+28-Oct-21
+006-MR00044490
+42170
+Aera
+EF81E3BC14601D4667CC
+28-Oct-21
+006-MR00044490
+42170
+Aera WP
+DF61632CEB2D8D1AED80
+28-Oct-21
+006-MR00047600
+46228
+Skyra
+EF01939CABAF6A4F5679
+28-Oct-21
+006-MR00047610
+46229
+Skyra
+CF71931CB48D997D3D36
+28-Oct-21
+006-MR00039180
+51031
+Biograph MMR
+5FE1936C7062ED37653C
+28-Oct-21
+006-MR00049530
+141028
+Aera
+DF114123851B507A4C7D
+28-Oct-21
+006-MR00053790
+169610
+AvantoFit
+4E3F12C15373B17725F3
+28-Oct-21
+006-MR00063790
+142391
+Agito Aera
+See attached
+28-Oct-21
+006-MR00057760
+142364
+Evelina Aera
+See attached
+28-Oct-21
+ 
+Let me know if any don’t work as there could be a copy/paste error.
+ 
+ 
+ 
+With best regards, David Haire
+ 
+MR Custromer Support Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 6 1 – MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com         
+ 
+ 
+ 
+From: Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk>  Sent: 13 October 2020 15:34 To: Haire, David (SHS CS RSC EMEA 1 6 1) <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+Good for you.
+ 
+Please let us know when you’re back on generating annual keys. If doesn’t come through before 28th Oct, could we bother you for another 30 day set?
+ 
+Any thoughts on the level 3 keys? Out of interest are you able to share what the difference is between the different levels?
+ 
+Cheers
+Geoff
+ 
+From: "Haire, David" <david.haire@siemens-healthineers.com> Date: Tuesday, 13 October 2020 at 14:36 To: "Charles-Edwards, Geoff" <geoff.charles-edwards@kcl.ac.uk> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi Geoff, 
+ 
+Yes – there was a change to our licensing tool privileges which meant we could only generate 30 day keys, albeit for any system. 
+I’m having mine put back to what it was so that I can generate annual keys. 
+ 
+With best regards, David Haire
+ 
+MR Custromer Support Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 6 1 – MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com         
+ 
+ 
+ 
+From: Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk>  Sent: 01 October 2020 09:57 To: Haire, David (SHS CS RSC EMEA 1 6 1) <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+Thanks David.
+ 
+Appears the 2 additional systems that you attached .dat files for are level 3 only? 
+ 
+Will you be able to generate keys for a year in the coming weeks?
+ 
+Thanks again
+Geoff
+ 
+From: "Haire, David" <david.haire@siemens-healthineers.com> Date: Wednesday, 30 September 2020 at 21:34 To: "Charles-Edwards, Geoff" <geoff.charles-edwards@kcl.ac.uk> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi Geoff, 
+ 
+I can only generate for 30 days at the moment. 
+ 
+F-Location
+Serial No.
+System
+L4 Key
+Expiry Date
+006-MR0011110
+25780
+Avanto
+DEBFD35D154144A765FC
+28-Oct-20
+006-MR0011110
+25780
+Avanto WP
+EEDFF30C99FD578EE8C8
+28-Oct-20
+006-MR00028680
+41058
+Magnetom Aera 
+EE5F531C9C6B632F5EDB
+28-Oct-20
+006-MR00037420
+41538
+Magnetom Aera 
+7E6F53DC394263F0BEF8
+28-Oct-20
+006-MR00037420
+41538
+Aera WP
+8E2F13BC1D8E7FCCEE9D
+28-Oct-20
+006-MR00044490
+42170
+Aera
+9FC1A1B36406389D99FF
+28-Oct-20
+006-MR00044490
+42170
+Aera WP
+1E6FA38C50C4ED59E69D
+28-Oct-20
+006-MR00047600
+46228
+Skyra
+AE4F03FC8A41886A976C
+28-Oct-20
+006-MR00047610
+46229
+Skyra
+2E5FF36CB579BB3CF736
+28-Oct-20
+006-MR00039180
+51031
+Biograph MMR
+9E8FC30C719BEB56EDAC
+28-Oct-20
+006-MR00049530
+141028
+Aera
+9F417143547AAD6EC6B9 
+28-Oct-20
+006-MR00053790
+169610
+AvantoFit
+0E3F632C73E01F07F862
+28-Oct-20
+006-MR00063790
+142391
+Agito Aera
+See attached
+28-Oct-20
+006-MR00057760
+142364
+Evelina Aera
+See attached
+16-Sep-21
+ 
+With best regards, David Haire
+ MR Customer Support Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 6 1 - MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare ￼ Siemens Healthcare Limited registered office: Faraday House, Sir William Siemens Square, Frimley, Camberley, GU16 8QD. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+From: Haire, David (SHS CS RSC EMEA 1 6 1)  Sent: 30 September 2020 12:37 To: Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk>; White, Andy (SHS CS RSC EMEA 1 6 1) <andy.c.white@siemens-healthineers.com> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi Geoff, 
+ 
+I’ll try to get this done today. 
+ 
+With best regards, David Haire
+ MR Customer Support Team Leader
+SIEMENS Healthineers | Diagnostic Imaging SHS CS RSC EMEA 1 6 1 - MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare
+<image002.png>
+ Siemens Healthcare Limited registered office: Faraday House, Sir William Siemens Square, Frimley, Camberley, GU16 8QD. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+. 
+ 
+From: Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk>  Sent: 30 September 2020 09:44 To: White, Andy (SHS CS RSC EMEA 1 6 1) <andy.c.white@siemens-healthineers.com>; G-RGB MED NTSEMR (MED Brk) <tsemr3.med.gb@siemens-healthineers.com> Cc: Haire, David (SHS CS RSC EMEA 1 6 1) <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+Hi Andy, all
+ 
+Sorry for not following up earlier.  Would it be possible to generate these today? Our current keys expire tomorrow.
+ 
+Thanks
+Geoff
+ 
+From: "White, Andy" <andy.c.white@siemens-healthineers.com> Date: Friday, 18 September 2020 at 12:33 To: "Charles-Edwards, Geoff" <geoff.charles-edwards@kcl.ac.uk>, "tsemr3.med.gb@siemens-healthineers.com" <tsemr3.med.gb@siemens-healthineers.com> Cc: "Haire, David" <david.haire@siemens-healthineers.com> Subject: RE: Level 4 service keys, GSTT MRI
+ 
+Hi Geoff
+ 
+I am forwarding this to our generic mailbox so that the engineer on background support can deal with this request as I don’t think I will have time to do this today and I am off next week.
+ 
+Cheers
+ 
+Andy
+ 
+From: Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk>  Sent: 18 September 2020 12:14 To: White, Andy (SHS CS RSC EMEA 1 6 1) <andy.c.white@siemens-healthineers.com> Cc: Haire, David (SHS CS RSC EMEA 1 6 1) <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+Hi Andy
+ 
+Hope you are well.
+ 
+Noticed David is away until 28th. Any chance you could help with this in the meantime?
+ 
+Many thanks
+Geoff
+ 
+From: "Charles-Edwards, Geoff" <geoff.charles-edwards@kcl.ac.uk> Date: Friday, 18 September 2020 at 11:24 To: "Haire, David" <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+Hi David
+ 
+Hope you and family managing to stay well in sunny Sheffield.
+ 
+It is that time of year again. Are you happy to run through the list and generate some more L4 keys for us please before Oct?
+ 
+The first two on the list below (006-MR0010691 and 006-MR0010689 no longer exist, so can ignore these)
+ 
+However, please can you add 2 new systems to the list… 
+006-MR00063790, 142391
+006-MR00057760, 142364
+ 
+Many thanks
+Geoff
+ 
+From: "Charles-Edwards, Geoff" <geoff.charles-edwards@kcl.ac.uk> Date: Saturday, 5 October 2019 at 05:14 To: "Haire, David" <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+fantastic. many thanks 
+Geoff
+ 
+On 4 Oct 2019, at 19:58, Haire, David <david.haire@siemens-healthineers.com> wrote:
+ 
+Hi Geoff, 
+ 
+I’ll be able to do them…… now!
+ 
+F-Location
+Serial No.
+System
+L4 Key
+Expiry Date
+006-MR0010691
+1785
+LEO MMWP
+8EEFE211C1E1C25B267E
+01-Oct-20
+006-MR0010689
+1790
+LEO MMWP
+0E1FE201C7E50B391E8D
+01-Oct-20
+006-MR0011110
+25780
+Avanto
+8E4F22A1F829E14577AC
+01-Oct-20
+006-MR0011110
+25780
+Avanto WP
+4E8FF281B1F010D539D8
+01-Oct-20
+006-MR00028680
+41058
+Magnetom Aera 
+5E1F72C1946651823D5B
+01-Oct-20
+006-MR00037420
+41538
+Magnetom Aera 
+4E2FB21195470CDB2FFF
+01-Oct-20
+006-MR00037420
+41538
+Aera WP
+AE6F1231758AE8192C9C
+01-Oct-20
+006-MR00044490
+42170
+Aera
+DECF52A1E171C59FD8A8
+01-Oct-20
+006-MR00044490
+42170
+Aera WP
+BE1F727179E816CE97F9
+01-Oct-20
+006-MR00047600
+46228
+Skyra
+1E8F422183498E590E79
+01-Oct-20
+006-MR00047610
+46229
+Skyra
+0E8FE2F19DD071A36C36
+01-Oct-20
+006-MR00039180
+51031
+Biograph MMR
+3E6FE29139BBC921F63C
+01-Oct-20
+006-MR00028681
+70046
+Leo MMWP
+4E5F02E1C813F9F20375
+01-Oct-20
+006-MR00049530
+141028
+Aera
+EE3FF281EFF0E1584FA3
+01-Oct-20
+006-MR00053790
+169610
+AvantoFit
+4E3F12C15373B17725F3
+01-Oct-20
+006-SYN0039191
+71193
+MMWP
+DE4FF201B8DD4B3B90A7
+01-Oct-20
+ 
+With best regards, David Haire
+ MR Technical Support Team Leader
+Siemens Healthineers SHS CS RSC EMEA 1 6 1 - MR Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare ￼ Siemens Healthcare Limited registered office: Faraday House, Sir William Siemens Square, Frimley, Camberley, GU16 8QD. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+From: Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk>  Sent: 04 October 2019 12:18 To: Haire, David (SHS CS RSC EMEA 1 6 1) <david.haire@siemens-healthineers.com> Subject: Re: Level 4 service keys, GSTT MRI
+ 
+Hi David 
+ 
+Do you know when you will be able to do these? I’m conscious expires this weekend
+ 
+thanks
+Geoff
+         
+On 1 Oct 2019, at 07:35, Charles-Edwards, Geoff <geoff.charles-edwards@kcl.ac.uk> wrote:
+ 
+Hi David 
+ 
+It’s that time of year again. Are you okay to provide new L4 keys for the table below + the couple of others?
+ 
+Happy birthday for the weekend :-)
+ 
+cheers
+Geoff
+         
+On 10 Oct 2018, at 10:52, Haire, David <david.haire@siemens-healthineers.com> wrote:
+ 
+Hi Geoff,
+ 
+Here they are:
+ 
+serial no 169610, 006-MR00053790 8E5D126972B27157A1F3
+serial no 71193 EEFDF229B894AB9D96A7
+ 
+Both expire 09-oct-2019
+ 
+With best regards, David Haire  Siemens Healthcare Limited
+ 
+Technical Support Engineer - MR HC WEA GBR SV CS OPS TS DI-MR Tel.: +44 845 3002476 Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare ￼ Siemens Healthcare Limited registered office: Faraday House, Sir William Siemens Square, Frimley, Camberley, GU16 8QD. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+From: Charles-Edwards, Geoff [mailto:geoff.charles-edwards@kcl.ac.uk]  Sent: 09 October 2018 16:57 To: Haire, David (SHS EMEA GBI CS OPS TS DI-MR) Subject: Re: Level 4 service keys, GSTT MRI
+ 
+many thanks David. sorry, just a couple missing: 
+ 
+serial no 169610, 006-MR00053790
+serial no 71193, I think 006-MR00039180?
+ 
+are you able to generate these too?
+ 
+cheers
+Geoff
+          
+On 8 Oct 2018, at 12:20, Haire, David <david.haire@siemens-healthineers.com> wrote:
+ 
+Hi Geoff, 
+ 
+As promised….
+ 
+F-Location
+Serial No.
+System
+L4 Key
+Expiry Date
+006-MR0010691
+1785
+LEO MMWP
+8E8DC22718123F6BA322
+07-Oct-19
+006-MR0010689
+1790
+LEO MMWP
+0E5D92771EAD03391B72
+07-Oct-19
+006-MR0011110
+25780
+Avanto
+BE3D0287F8C03C357BAC
+07-Oct-19
+006-MR0011110
+25780
+Avanto WP
+4ECDF2A7B1B418953DD8
+07-Oct-19
+006-MR00028680
+41058
+Magnetom Aera 
+5E5D42F794BFBDC2FB5B
+07-Oct-19
+006-MR00037420
+41538
+Magnetom Aera 
+CE6DB237952740356AFF
+07-Oct-19
+006-MR00037420
+41538
+Aera WP
+0E1D121775EEC079A99C
+07-Oct-19
+006-MR00044490
+42170
+Aera
+DE8D7297E1393CEF06A8
+07-Oct-19
+006-MR00044490
+42170
+Aera WP
+BE5D725779A81E8E13F9
+07-Oct-19
+006-MR00047600
+46228
+Skyra
+1EED62178384A219C279
+07-Oct-19
+006-MR00047610
+46229
+Skyra
+BEFDE2D79D1979D32836
+07-Oct-19
+006-MR00039180
+51031
+Biograph MMR
+3E2DE2B7396AC551393C
+07-Oct-19
+006-MR00028681
+70046
+Leo MMWP
+EE2D02C7C85AD51CD575
+07-Oct-19
+006-MR00049530
+141028
+Aera
+2E3DC227CF983438CAA3
+07-Oct-19
+ 
+ 
+With best regards, David Haire  Siemens Healthcare Limited
+ 
+Technical Support Engineer - MR HC WEA GBR SV CS OPS TS DI-MR Tel.: +44 845 3002476 Mobile: +44 7808 823475 mailto:david.haire@siemens-healthineers.com www.siemens.co.uk/healthcare
+<image004.gif>
+ Siemens Healthcare Limited registered office: Faraday House, Sir William Siemens Square, Frimley, Camberley, GU16 8QD. Registered No.: 09567186, England. WEEE Producer Registration Number: WEEE/CK5633XZ  Important notice: This e-mail and any attachment thereof contain corporate proprietary information. If you have received it by mistake, please notify us immediately by reply e-mail and delete this e-mail and its attachments from your system. Thank you.
+ 
+ 
+ 
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.
+
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.
+
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.
+
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.
+
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.
+
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.
+
+
+The information contained in this message and or attachments is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+ 
+Unless otherwise specified, the opinions expressed herein do not necessarily represent those of Guy's and St Thomas' NHS Foundation Trust or any of its subsidiaries. 
+ 
+The information contained in this e-mail may be subject to public disclosure under the Freedom of Information Act 2000. Unless the information is legally exempt from disclosure, the confidentiality of this e-mail and any replies cannot be guaranteed.
+ 
+Any review, retransmission,dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any system and destroy any copies.
+ 
+We make every effort to keep our network free from viruses. However, it is your responsibility to ensure that this e-mail and any attachments are free of viruses as we can take no responsibility for any computer virus which might be transferred by way of this e-mail.

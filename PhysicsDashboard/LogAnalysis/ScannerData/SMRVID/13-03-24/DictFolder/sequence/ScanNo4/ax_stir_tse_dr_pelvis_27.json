@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/13_10:07:55.136018",
+    "start_time": "10:07:55",
+    "measurement_time": "194.989930_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "27.859851_s",
+    "readout_and_check_time_bb": "10:07:55",
+    "start_of_measurement_host_time": "10:07:38",
+    "finish_of_measurement_host_time": "10:07:55",
+    "start_of_measurement_mcir_time": "10:07:38",
+    "finish_of_measurement_mcir_time": "10:07:55",
+    "total_measurement_time_host": "16.909758_s",
+    "total_measurement_time_mcir": "16.828528_s",
+    "pause_after_measurement": "2.794732_s",
+    "pause_averaging_time": "14.827485_s",
+    "meas_uid": "127",
+    "protocol_name": "ax_stir_tse_dr_pelvis"
+}

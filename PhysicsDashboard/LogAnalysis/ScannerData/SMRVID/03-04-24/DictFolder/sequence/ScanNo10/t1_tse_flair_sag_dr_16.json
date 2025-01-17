@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/03_12:24:49.265750",
+    "start_time": "12:24:49",
+    "measurement_time": "108.149930_s",
+    "allowed_meas_pause": "60.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "58.618728_s",
+    "readout_and_check_time_bb": "12:24:48",
+    "start_of_measurement_host_time": "12:23:00",
+    "finish_of_measurement_host_time": "12:24:49",
+    "start_of_measurement_mcir_time": "12:23:00",
+    "finish_of_measurement_mcir_time": "12:24:48",
+    "total_measurement_time_host": "108.262391_s",
+    "total_measurement_time_mcir": "108.174328_s",
+    "pause_after_measurement": "58.585627_s",
+    "pause_averaging_time": "106.673105_s",
+    "meas_uid": "407",
+    "protocol_name": "t1_tse_flair_sag_dr"
+}

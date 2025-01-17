@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/04/02_12:28:10.587768",
+    "start_time": "12:28:10",
+    "measurement_time": "19.509950_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "12:28:11",
+    "start_of_measurement_host_time": "12:27:50",
+    "finish_of_measurement_host_time": "12:28:10",
+    "start_of_measurement_mcir_time": "12:27:51",
+    "finish_of_measurement_mcir_time": "12:28:11",
+    "total_measurement_time_host": "19.621549_s",
+    "total_measurement_time_mcir": "19.540553_s",
+    "pause_after_measurement": "0.000000_s",
+    "pause_averaging_time": "19.540553_s",
+    "meas_uid": "279",
+    "protocol_name": "haste_loc_neck"
+}

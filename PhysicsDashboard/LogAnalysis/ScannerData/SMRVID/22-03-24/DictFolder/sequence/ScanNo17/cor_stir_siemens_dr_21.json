@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/22_17:58:14.091372",
+    "start_time": "17:58:14",
+    "measurement_time": "142.689930_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "28.505694_s",
+    "readout_and_check_time_bb": "17:58:12",
+    "start_of_measurement_host_time": "17:55:51",
+    "finish_of_measurement_host_time": "17:58:14",
+    "start_of_measurement_mcir_time": "17:55:49",
+    "finish_of_measurement_mcir_time": "17:58:12",
+    "total_measurement_time_host": "142.806022_s",
+    "total_measurement_time_mcir": "142.713550_s",
+    "pause_after_measurement": "28.477512_s",
+    "pause_averaging_time": "142.211915_s",
+    "meas_uid": "622",
+    "protocol_name": "cor_stir_siemens_dr"
+}

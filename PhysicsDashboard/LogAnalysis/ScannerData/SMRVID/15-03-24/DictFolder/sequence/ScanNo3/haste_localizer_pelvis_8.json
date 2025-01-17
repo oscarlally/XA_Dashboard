@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/15_08:18:32.849760",
+    "start_time": "08:18:32",
+    "measurement_time": "18.009950_s",
+    "allowed_meas_pause": "30.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "3.515296_s",
+    "readout_and_check_time_bb": "08:18:32",
+    "start_of_measurement_host_time": "08:18:14",
+    "finish_of_measurement_host_time": "08:18:32",
+    "start_of_measurement_mcir_time": "08:18:14",
+    "finish_of_measurement_mcir_time": "08:18:32",
+    "total_measurement_time_host": "18.123529_s",
+    "total_measurement_time_mcir": "18.038896_s",
+    "pause_after_measurement": "3.486349_s",
+    "pause_averaging_time": "18.038896_s",
+    "meas_uid": "17",
+    "protocol_name": "haste_localizer_pelvis"
+}

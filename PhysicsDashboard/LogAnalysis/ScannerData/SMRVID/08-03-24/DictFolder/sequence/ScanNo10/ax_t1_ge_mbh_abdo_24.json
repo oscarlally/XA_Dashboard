@@ -1,0 +1,19 @@
+{
+    "date_and_time": "2024/03/08_14:37:41.365313",
+    "start_time": "14:37:41",
+    "measurement_time": "59.035940_s",
+    "allowed_meas_pause": "60.000_s",
+    "calculated_predelay": "0.000000_s",
+    "calculated_measpause": "0.000000_s",
+    "readout_and_check_time_bb": "14:37:39",
+    "start_of_measurement_host_time": "14:36:35",
+    "finish_of_measurement_host_time": "14:37:41",
+    "start_of_measurement_mcir_time": "14:36:33",
+    "finish_of_measurement_mcir_time": "14:37:39",
+    "total_measurement_time_host": "66.259601_s",
+    "total_measurement_time_mcir": "66.175351_s",
+    "pause_after_measurement": "7.310343_s",
+    "pause_averaging_time": "19.668586_s",
+    "meas_uid": "411",
+    "protocol_name": "ax_t1_ge_mbh_abdo"
+}
