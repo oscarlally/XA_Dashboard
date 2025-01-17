@@ -8,7 +8,7 @@ Please ensure you have downloaded Github desktop on your computer (this is not a
 git clone https://github.com/oscarlally/XA_Dashboard
 ```
 
-If you want to do this via a virtual environment (RECOMMENDED), navigate to the project directory and run the below commands.  However, you may need to do some rejigging of the paths as (FSL in particular) does not interact very well with a python virtual environment:
+If you want to do this via a virtual environment (RECOMMENDED), navigate to the project directory and run the below commands.  
 
 Navigate to the tailwind-dashboard-template-main directory, and run
 
